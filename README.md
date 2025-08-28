@@ -1,0 +1,1 @@
+code for hydroponics to have nutrient sensing and dispensing. its currently running in sim but added into a controller or pi, along with sensors, will autmate hydroponic systems with little user input
